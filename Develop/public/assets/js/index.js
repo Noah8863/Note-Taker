@@ -4,7 +4,6 @@ let saveNoteBtn;
 let newNoteBtn;
 let noteList;
 
-import fetch from "node-fetch";
 
 if (window.location.pathname === '/notes') {
   noteTitle = document.querySelector('.note-title');
