@@ -1,5 +1,4 @@
-  # Track The Team! 
-
+  # On Another Note! 
 
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
@@ -28,7 +27,7 @@
 
   ## Quick Description about the project 
 
-  This project creates a team memember html page that lists each persons name, role, id number, and any other information that pertains to that particular persons role.   
+  This website helps you keep track of all of your upcoming events with a note tracker. It will allow you to add a title to each note and then a description. Each note will be saved in a database that you can then access at a later time.  
 
   ## How to install the project 
 
@@ -38,22 +37,22 @@
 
   ## How to use this project 
 
-  Open up the terminal, type in npm start to get the program to start and follow the prompts.  
+  First, type in "npm install express" in the terminal to make sure the program can run properly. Afterwards, type in "npm start" in the terminal and follow the live url that was generated. You can also find a live URL hosted by Heroku further down in the README to see how the program runs.  
 
   ## Contributing to this project
-  Create a merge request and the merge will be approved upon review.  
+  Create a fork repo and then merge your repo into the main branch. The changes will be approved upon review.  
 
   ## Main problems faced when working on the project 
  
-  Figuring out how to properly use routes in node js was a bit difficult. 
+  I had a really tough time with express when I first started the project. I kept getting stuck on how to retrieve the notes after they were submitted to the database.  
 
   ## Main take aways from the project 
 
-  N\A 
+  I learned how to use express more effectively and how to set up routes within the program to keep everything organized.  
 
   ## Tests 
 
-  There are no tests required for this project 
+  There are no tests required for this project.  
 
   ## Questions 
 
