@@ -41,7 +41,7 @@
   
   ## Video of how the program works
   
-  file:///Users/noah8863/Downloads/Note%20Taker.webm
+  https://drive.google.com/file/d/1rqKFfFUbh1XjbWJoAHOFJdEZ97jSoDhg/view
   
   ## Live Heroku URL
   
