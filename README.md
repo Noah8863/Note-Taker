@@ -38,6 +38,14 @@
   ## How to use this project 
 
   First, type in "npm install express" in the terminal to make sure the program can run properly. Afterwards, type in "npm start" in the terminal and follow the live url that was generated. You can also find a live URL hosted by Heroku further down in the README to see how the program runs.  
+  
+  ## Video of how the program works
+  
+  file:///Users/noah8863/Downloads/Note%20Taker.webm
+  
+  ## Live Heroku URL
+  
+  
 
   ## Contributing to this project
   Create a fork repo and then merge your repo into the main branch. The changes will be approved upon review.  
