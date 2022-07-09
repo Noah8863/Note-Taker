@@ -1,23 +1,23 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)",
   "main": "server.js",
-  "engines": {
-    "node": "17.9.0"
-  },
   "scripts": {
-  "test": "echo \"Error: no test specified\" && exit 1",
-  "dev": "nuxt",
-  "build": "nuxt build",
-  "start": "nuxt start",
-  "generate": "nuxt generate",
-  "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
-  "heroku-postbuild": "npm run build"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noah8863/Note-Taker.git"
   },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noah8863/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/Noah8863/Note-Taker#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.18.1"
   }
 }
