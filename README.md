@@ -45,7 +45,7 @@
   
   ## Live Heroku URL
   
-  https://github.com/Noah8863/On-Another-Note
+  https://note-taker-with-node.herokuapp.com/
 
   ## Contributing to this project
   Create a fork repo and then merge your repo into the main branch. The changes will be approved upon review.  
